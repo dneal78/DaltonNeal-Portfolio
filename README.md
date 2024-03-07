@@ -5,6 +5,6 @@ My interest in technology began at a young age - I built my first computer at th
 
 # Technologies!
 ### Languages
-[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+![Static Badge](https://img.shields.io/badge/Python-3.11-blue)
 
 # Projects!
