@@ -4,6 +4,7 @@ My interest in technology began at a young age - I built my first computer at th
 <a href="mailto:nealdalton99@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 # Technologies!
-
+### Languages
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 
 # Projects!
